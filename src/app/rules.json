@@ -1,0 +1,87 @@
+[
+  {
+    "intent": "viewing",
+    "keywords": ["viewing", "visit", "appointment", "schedule"],
+    "reply": "PROPERTY VIEWINGS\n\nTo arrange a viewing, please contact our demo team with:\n• Property reference\n• Preferred date and time\n• Your name and contact number\n\nDemo phone: +44 7700 900123\n\nThis chatbot provides information only. A viewing is confirmed only after our team contacts you."
+  },
+  {
+    "intent": "documents",
+    "keywords": ["documents", "document", "paperwork", "identification"],
+    "reply": "RENTAL DOCUMENTS\n\nOur demo application checklist includes:\n• Photo identification\n• Proof of income\n• Previous landlord reference, if available\n\nRequirements depend on the property and your circumstances. Please confirm with our team.\n\nDo not share identity documents in this demo chat."
+  },
+  {
+    "intent": "deposit",
+    "keywords": ["deposit", "deposits"],
+    "reply": "RENTAL DEPOSIT\n\nThe deposit for each demo property is shown in its listing:\n• HB101: £1,250\n• HB102: £1,450\n• HB103: £1,100\n\nThese are fictional listing amounts. Our team would explain applicable terms before any agreement.\n\nDo not make payments through this demo."
+  },
+  {
+    "intent": "fees",
+    "keywords": ["fees", "fee", "commission", "charges"],
+    "reply": "FEES & CHARGES\n\nAll prices in this project are demo figures.\n\nRental prices are shown per calendar month. Bills are excluded unless the listing states otherwise.\n\nFor any applicable fees or purchase costs, request a written breakdown from our demo team before proceeding."
+  },
+  {
+    "intent": "pets",
+    "keywords": ["pets", "pet", "cat", "cats", "dog", "dogs"],
+    "reply": "PETS POLICY\n\nPet requests are considered individually for each property.\n\nPlease contact our demo team with the property reference and details of your pet. We cannot confirm permission through this chatbot."
+  },
+  {
+    "intent": "furnished",
+    "keywords": ["furnished", "unfurnished", "furniture"],
+    "reply": "FURNISHING OPTIONS\n\n• HB101 — Maple Apartment: Furnished\n• HB102 — Park View Flat: Unfurnished\n• HB103 — Riverside Studio: Furnished\n• HB201 — Oakwood Family Home: Unfurnished\n\nAsk about rent or buy to see prices and property details."
+  },
+  {
+    "intent": "rent",
+    "keywords": ["rent", "rental", "renting", "tenant", "tenants"],
+    "reply": "PROPERTIES TO RENT — DEMO LISTINGS\n\nHB101 — Maple Apartment\n• Central District\n• 2 bedrooms | Furnished\n• £1,250 per calendar month\n• Demo deposit: £1,250\n\nHB102 — Park View Flat\n• Green Park\n• 2 bedrooms | Unfurnished\n• £1,450 per calendar month\n• Demo deposit: £1,450\n\nHB103 — Riverside Studio\n• Riverside\n• Studio | Furnished\n• £1,100 per calendar month\n• Demo deposit: £1,100\n\nBills are excluded. Availability must be confirmed with our demo team.\n\nType viewing to learn how to arrange a visit."
+  },
+  {
+    "intent": "buy",
+    "keywords": ["buy", "buying", "purchase", "sale"],
+    "reply": "PROPERTY FOR SALE — DEMO LISTING\n\nHB201 — Oakwood Family Home\n• Oakwood District\n• 3 bedrooms | 2 bathrooms\n• Private garden\n• Unfurnished\n• Demo asking price: £325,000\n\nThis is a fictional property. Availability and details require confirmation.\n\nType viewing to learn how to arrange a visit."
+  },
+  {
+    "intent": "properties",
+    "keywords": ["properties", "property", "listings", "houses", "apartments", "homes"],
+    "reply": "EXPLORE HOMEBRIDGE\n\nOur demo portfolio includes:\n• Two-bedroom apartments\n• A furnished studio\n• A three-bedroom family home\n\nType rent for rental listings.\nType buy for the property for sale.\nType viewing for viewing information."
+  },
+  {
+    "intent": "areas",
+    "keywords": ["areas", "area", "neighbourhood", "neighborhood", "district"],
+    "reply": "DEMO PROPERTY AREAS\n\n• Central District — Maple Apartment\n• Green Park — Park View Flat\n• Riverside — Riverside Studio\n• Oakwood District — Oakwood Family Home\n\nAll locations and properties in this portfolio project are fictional."
+  },
+  {
+    "intent": "location",
+    "keywords": ["location", "address", "office", "directions"],
+    "reply": "OUR DEMO OFFICE\n\nHomeBridge Property Services\n12 Example Lane\nDemo Town, United Kingdom\n\nThis is a fictional address for a portfolio demonstration. Please do not travel to this address."
+  },
+  {
+    "intent": "timings",
+    "keywords": ["timings", "hours", "opening", "open", "close", "weekend"],
+    "reply": "DEMO OFFICE HOURS\n\nMonday–Friday: 9:00 AM–6:00 PM\nSaturday: 10:00 AM–4:00 PM\nSunday: Closed\n\nTimes are shown in UK local time.\nViewings require a separately confirmed appointment."
+  },
+  {
+    "intent": "contact",
+    "keywords": ["contact", "phone", "call", "email", "agent", "human"],
+    "reply": "CONTACT OUR DEMO TEAM\n\nPhone: +44 7700 900123\nEmail: hello@homebridge.example\n\nThese are demo contact details. This portfolio chatbot does not send messages to a real agent."
+  },
+  {
+    "intent": "about",
+    "keywords": ["about", "homebridge", "services", "help"],
+    "reply": "ABOUT HOMEBRIDGE\n\nHomeBridge is a fictional property agency created for a developer portfolio.\n\nI am a rule-based assistant. I can answer questions about:\n• Buying and renting\n• Demo properties and areas\n• Viewing arrangements\n• Deposits and documents\n• Office hours and contact details\n\nI use predefined answers and do not confirm bookings or save enquiries."
+  },
+  {
+    "intent": "thanks",
+    "keywords": ["thanks", "thank", "thankyou"],
+    "reply": "You are welcome! Would you like to explore rental properties, homes for sale, or viewing information?"
+  },
+  {
+    "intent": "goodbye",
+    "keywords": ["bye", "goodbye", " farewell"],
+    "reply": "Thank you for exploring HomeBridge. Come back whenever you would like to browse our demo properties!"
+  },
+  {
+    "intent": "greeting",
+    "keywords": ["hi", "hello", "hey", "salam"],
+    "reply": "Hello! Welcome to HomeBridge Property Assistant.\n\nI can help with renting, buying, property listings and viewing information.\n\nWhat would you like to explore?"
+  }
+]
